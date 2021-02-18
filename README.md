@@ -10,8 +10,8 @@ First, you need a token to an account that you own, because Discord doesn't want
 ## Controls
 | Function      | Button      |
 |---------------|-------------|
-| Next channel  | D-Pad Down  |
-| Next server   | D-Pad Right |
+| next/previous channel  | D-Pad Down/Up  |
+| Next/previous server   | D-Pad Right/left |
 | Load messages | Y           |
 | Send Message  | A           |
 
@@ -29,5 +29,5 @@ Download and compile Sleepy Discord for the 3ds from here https://github.com/you
 Now you just need use make, and it should compile to a new folder ``output/3ds-arm``.
 
 #
-
+credit to yourwaifu for the original source
 I also would like to thank people like Sono and others in the Nintendo Homebrew #dev channel for helping me. 
